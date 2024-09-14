@@ -29,11 +29,11 @@ Menus:
       title: Blog posts
       url: /blogs
       weight: 1
-#    - identifier: gallery
-#      name: Gallery
-#      title: Blog posts
-#      url: /gallery
-#      weight: 2
+    - identifier: gallery
+      name: Gallery
+      title: Blog posts
+      url: /gallery
+      weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -205,6 +205,9 @@ params:
         GPA: "5 out of 5.0"
         content: |-
 
+          Volunteer Work:
+            - [Worked as an volunteer in One Degree Initiative Foundation](https://www.facebook.com/1difb) (2013-2015)
+
         featuredLink:
           enable: false
           name: "My academic record"
@@ -246,6 +249,14 @@ params:
           - Fill up & update ratable Component History Cards and attach copy of the approve certificate with the respective history card as received from the Store Inspector.
           - Maintain and update Last Done Next Due (LDND) Status of the fleet (ATR 72-600).
           - Maintain and update Hard Time, Life limit & On-Condition Item installed in Aircraft.
+
+          Certificates I obtained:
+
+          - Electrical Wiring Interconnection System (EWIS)
+          - Safety Management System in Aviation
+          - Human Factors
+          - Aircraft General Familiarization
+          - Aviation Legislation
 
   # Achievements
   achievements:
